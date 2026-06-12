@@ -1,4 +1,5 @@
 //arithemtic
+console.log("ARITHEMETIC OPERATORS")
 var a = 10;
 var b =10;
 console.log(a+b)
@@ -23,3 +24,9 @@ var j = 10;
 var k =10;
 console.log(j**k)
 
+console.log("ASSIGNMENT OPERATORS")
+var a = 20;
+console.log(a+=10);
+console.log(a-=10);
+console.log(a*=10);
+console.log(a/=10);
