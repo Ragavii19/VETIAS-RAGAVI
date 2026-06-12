@@ -30,3 +30,13 @@ console.log(a+=10);
 console.log(a-=10);
 console.log(a*=10);
 console.log(a/=10);
+
+console.log("COMPARSION OPERATORS")
+var a = 40;
+var b = 20;
+console.log(a==b);
+console.log(a!=b);
+console.log(a<=b);
+console.log(a>=b);
+console.log(a<b);
+console.log(a>b);
