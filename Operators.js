@@ -59,3 +59,4 @@ console.log(--c);
 console.log("TERNARY OPERATORS")
 var results =(a>b) ? "a is greater": "b is greater"
 console.log(results)
+
