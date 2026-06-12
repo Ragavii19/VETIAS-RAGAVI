@@ -41,10 +41,21 @@ console.log(a>=b);
 console.log(a<b);
 console.log(a>b);
 
-console.log("LOGICALO OPERATORS")
+console.log("LOGICAL OPERATORS")
 var a = 10;
 var b = 20;
 console.log(a > 0 && b > 0);
 console.log( a > 0 && b < 0);
 console.log(a < 0 || b < 0);
 console.log(!(a > 0));
+
+console.log("UNARY OPERATORS")
+var c = 10;
+console.log(c++);
+console.log(c--);
+console.log(++c);
+console.log(--c);
+
+console.log("TERNARY OPERATORS")
+var results =(a>b) ? "a is greater": "b is greater"
+console.log(results)
