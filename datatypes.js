@@ -32,12 +32,12 @@ console.log(Undefined)
 console.log("Non-Primitive")
 console.log("Array")
 var a =["kiwi","fig","apple","orange","pine"]
-console.log(Number.length)
-console.log(number[2])
+console.log(a.length)
+console.log(a[2])
 
 console.log("Object")
 var person={
-    name=RAG
-    age=18
+    name:"RAG",
+    age:18
 }
 console.log(person.age)
