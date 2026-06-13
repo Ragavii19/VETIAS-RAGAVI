@@ -40,4 +40,4 @@ var person={
     name:"RAG",
     age:18
 }
-console.log(person.age)
+console.log(person.name)
