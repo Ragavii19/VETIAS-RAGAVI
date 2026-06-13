@@ -36,7 +36,8 @@ console.log(a.length)
 console.log(a[2])
 
 console.log("Object")
-var person={
+var person=
+{
     name:"RAG",
     age:18
 }
