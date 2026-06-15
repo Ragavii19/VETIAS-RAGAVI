@@ -21,3 +21,21 @@ if(light == "red")
  }
 
  console.log("outside if")
+
+ console.log("SWITCH STATEMENT")
+ var signal = "white"
+    switch(signal)
+    {
+        case "red":
+        console.log("STOP...");
+        break;
+
+case "green":
+        console.log("GO!!...");
+        break;
+
+default:
+        console.log("invalid signal...");
+        break;
+
+    }
