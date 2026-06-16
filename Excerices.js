@@ -1,5 +1,3 @@
-
-
  console.log("DO WHILE")
       let count = 7 
       do{
